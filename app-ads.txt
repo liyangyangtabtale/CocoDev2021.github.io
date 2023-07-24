@@ -865,6 +865,7 @@ indexexchange.com, 199195, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 kidoz.net, 19692013, RESELLER
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 liftoff.io, 7f6945815e6, RESELLER
@@ -1050,6 +1051,8 @@ iqzone.com,IQ163,RESELLER
 inmobi.com,59c7922793a3477b9419f0854d1da7e9,RESELLER,83e75a7ae333ca9d
 webeyemob.com, 70174, RESELLER
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+rixengine.com, 604523, RESELLER
+pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
 
 #Applovin
 applovin.com, 46d606be723f41cb136fe3b414af0c0f, DIRECT
@@ -1756,6 +1759,23 @@ improvedigital.com, 1805, RESELLER
 Contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
 criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
 video.unrulymedia.com, 170071695, RESELLER
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+startapp.com, wbe, RESELLER
+start.io, wbe, RESELLER
+admixer.net, 70590d13-5632-41d5-8a78-76bc239c528c, RESELLER
+bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4140, RESELLER
+triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+vidoomy.com, 4930225, RESELLER
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
+Xapads.com, 155860, RESELLER
+betweendigital.com, 45117, RESELLER
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+brightcom.com, 29559, RESELLER
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
 
 #Tiktok
 oceanengine.com, 12885, DIRECT

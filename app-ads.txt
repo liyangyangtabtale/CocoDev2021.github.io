@@ -848,12 +848,8 @@ google.com, pub-4841966637114747, RESELLER
 google.com, pub-4841966637114747, RESELLER, f08c47fec0942fa0
 google.com, pub-5039742115488639, RESELLER
 google.com, pub-5039742115488639, RESELLER, f08c47fec0942fa0
-google.com, pub-7234330288476495, RESELLER
-google.com, pub-7234330288476495, RESELLER, f08c47fec0942fa0
 google.com, pub-7853853494796077, RESELLER
 google.com, pub-7853853494796077, RESELLER, f08c47fec0942fa0
-google.com, pub-8161458603022252, RESELLER
-google.com, pub-8161458603022252, RESELLER, f08c47fec0942fa0
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -910,6 +906,9 @@ pubnative.net, 1003601, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1007063, RESELLER, d641df8625486a7b
+pubnative.net, 1007262, RESELLER, d641df8625486a7b
+pubnative.net, 1007501, RESELLER, d641df8625486a7b
+pubnative.net, 1008770, RESELLER, d641df8625486a7b
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
@@ -1816,6 +1815,8 @@ thunder-monetize.com, 4588767099, RESELLER
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
+appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
+xandr.com, 15426, RESELLER, f5ab79cb980f11d1
 
 #Tiktok
 oceanengine.com, 12885, DIRECT
